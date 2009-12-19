@@ -1,0 +1,4 @@
+require 'autotest-growl'
+require 'snarl'
+require 'lib/autotest/growl-to-snarl'
+require 'Win32/Console/ANSI'
